@@ -1,0 +1,19 @@
+# Core dependencies
+ultralytics==8.3.177
+torch>=2.0.0
+torchvision>=0.15.0
+
+# For data handling and processing
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+
+# For working in Google Colab / Jupyter
+ipython
+notebook
+
+# Optional: image annotation/conversion
+pyyaml
+tqdm
